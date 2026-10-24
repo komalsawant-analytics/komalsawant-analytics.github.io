@@ -1,0 +1,62 @@
+source,source_key,sku,method,score
+Amazon,MMSKIN-RET15-IND,MM-RET15,code pattern,1.0
+Amazon,MMSKIN-FW100-IN,MM-FW100,code pattern,1.0
+Amazon,MMSKIN-VC30-IND,MM-VC30,code pattern,1.0
+Amazon,MMSKIN-HA30-IND,MM-HA30,code pattern,1.0
+Amazon,MMSKIN-HS200-IN,MM-HS200,code pattern,1.0
+Amazon,MMSKIN-CLAY100-IND,MM-CLAY100,code pattern,1.0
+Amazon,MMSKIN-LB10-IND,MM-LB10,code pattern,1.0
+Amazon,MMSKIN-KITGLOW-IND,MM-KIT-GLOW,code pattern,1.0
+Amazon,MMSKIN-NIA30-IND,MM-NIA30,code pattern,1.0
+Amazon,MMSKIN-CMG100-IND,MM-CMG100,code pattern,1.0
+Amazon,MMSKIN-CO100-IND,MM-CO100,code pattern,1.0
+Amazon,MMSKIN-GWM50-IN,MM-GWM50,code pattern,1.0
+Amazon,MMSKIN-LTNUDE-IN,MM-LT-NUDE,code pattern,1.0
+Amazon,MMSKIN-UEC15-IN,MM-UEC15,code pattern,1.0
+Amazon,MMSKIN-SS50-IND,MM-SS50,code pattern,1.0
+Amazon,MMSKIN-LTROSE-IND,MM-LT-ROSE,code pattern,1.0
+Amazon,MMSKIN-LTBERRY-IND,MM-LT-BERRY,code pattern,1.0
+Amazon,MMSKIN-HO100-IN,MM-HO100,code pattern,1.0
+Amazon,MMSKIN-SSG50-IND,MM-SSG50,code pattern,1.0
+Amazon,MMSKIN-NC75-IND,MM-NC75,code pattern,1.0
+BeautyMart,Green Tea Cleansing Oil 100ml,MM-CO100,fuzzy name,1.0
+BeautyMart,Vit-C Glow Serum 30 ml,MM-VC30,fuzzy name,1.0
+BeautyMart,Rice Water Shampoo (200 ml),MM-HS200,fuzzy name,1.0
+BeautyMart,Rice Water Shampoo 200ml,MM-HS200,fuzzy name,1.0
+BeautyMart,Lip Tint - Nude (Matte),MM-LT-NUDE,fuzzy name,1.0
+BeautyMart,Turmeric Face Wash 100ml,MM-FW100,fuzzy name,0.829
+BeautyMart,Vitamin C Glow Serum (30ml),MM-VC30,fuzzy name,1.0
+BeautyMart,Matte Lip Tint Rose,MM-LT-ROSE,fuzzy name,1.0
+BeautyMart,Ceramide Barrier Moisturizer 100 gm,MM-CMG100,fuzzy name,1.0
+BeautyMart,Ceramide Moisturiser 100g,MM-CMG100,fuzzy name,0.806
+BeautyMart,Lip Tint - Rose (Matte),MM-LT-ROSE,fuzzy name,1.0
+BeautyMart,Matte Lip Tint Nude,MM-LT-NUDE,fuzzy name,1.0
+BeautyMart,Retinol Night Serum 15ml,MM-RET15,fuzzy name,0.836
+BeautyMart,MITTI & MOSS VITAMIN C GLOW SERUM 30ML,MM-VC30,fuzzy name,1.0
+BeautyMart,Niacinamide Clarifying Serum - 30 ml,MM-NIA30,fuzzy name,0.878
+BeautyMart,Gentle Retinol Serum (15 ml),MM-RET15,fuzzy name,0.846
+BeautyMart,Mineral Sunscreen SPF 50 - 50g,MM-SS50,fuzzy name,1.0
+BeautyMart,Hyaluronic Hydra Serum 30ml,MM-HA30,fuzzy name,1.0
+BeautyMart,Onion Bhringraj Hair Oil 100ml,MM-HO100,fuzzy name,1.0
+BeautyMart,Niacinamide 10% Serum 30ml,MM-NIA30,fuzzy name,0.81
+BeautyMart,Mineral Sunscreen SPF50 50gm,MM-SS50,fuzzy name,1.0
+BeautyMart,Green Tea Cleansing Oil (100 ml),MM-CO100,fuzzy name,1.0
+BeautyMart,Oil-Free Gel Moisturizer (50g),MM-GWM50,fuzzy name,1.0
+BeautyMart,Turmeric Foaming Facewash 100 ml,MM-FW100,fuzzy name,1.0
+BeautyMart,Kaolin Clay Face Mask 100 gm,MM-CLAY100,fuzzy name,0.847
+BeautyMart,Under-Eye Cream Caffeine 15gm,MM-UEC15,fuzzy name,1.0
+BeautyMart,Onion & Bhringraj Oil 100 ml,MM-HO100,fuzzy name,0.855
+BeautyMart,Night Repair Cream 75g,MM-NC75,fuzzy name,0.807
+BeautyMart,Beetroot Lip Balm (10 gm),MM-LB10,fuzzy name,1.0
+BeautyMart,Glow Starter Kit,MM-KIT-GLOW,fuzzy name,0.59
+BeautyMart,Beetroot Lip Balm 10g,MM-LB10,fuzzy name,1.0
+BeautyMart,Matte Lip Tint Berry,MM-LT-BERRY,fuzzy name,1.0
+BeautyMart,Kaolin Clay Mask 100g,MM-CLAY100,fuzzy name,1.0
+BeautyMart,Hyaluronic Acid Serum 30 ml,MM-HA30,fuzzy name,0.696
+BeautyMart,Oil Free Gel Moisturiser 50g,MM-GWM50,fuzzy name,1.0
+BeautyMart,Caffeine Under Eye Cream 15g,MM-UEC15,fuzzy name,1.0
+BeautyMart,Tinted Sun Gel SPF50 50g,MM-SSG50,fuzzy name,1.0
+BeautyMart,Tinted Sunscreen Gel SPF 50,MM-SSG50,fuzzy name,0.65
+BeautyMart,Lip Tint - Berry (Matte),MM-LT-BERRY,fuzzy name,1.0
+BeautyMart,Overnight Repair Night Cream 75 gm,MM-NC75,fuzzy name,1.0
+BeautyMart,Glow Starter Kit (3 pcs),MM-KIT-GLOW,fuzzy name,0.527

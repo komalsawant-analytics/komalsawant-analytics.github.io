@@ -1,0 +1,688 @@
+[
+  {
+    "sku":"MM-VC30",
+    "name":"Vitamin C Glow Serum",
+    "category":"Serum",
+    "size_value":30.0,
+    "size_unit":"ml",
+    "price_inr":899.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Ethyl Ascorbic Acid 10%",
+      "Ferulic Acid",
+      "Licorice Root"
+    ],
+    "skin_types":[
+      "oily",
+      "combination",
+      "normal"
+    ],
+    "concerns":[
+      "dark spots",
+      "dullness"
+    ],
+    "fragrance_free":true,
+    "vegan":true,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"AM",
+    "how_to_use":"Apply 3-4 drops on clean face every morning before moisturiser. Always follow with sunscreen.",
+    "cautions":"Patch test first. May tingle slightly. Avoid using with retinol at the same time.",
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+      "retinol"
+    ],
+    "description":"A lightweight brightening serum with 10% Ethyl Ascorbic Acid, Ferulic Acid and Licorice Root extract. Fades dark spots & dullness. Suitable for normal, oily and combination skin. Fragrance free. Vegan."
+  },
+  {
+    "sku":"MM-NIA30",
+    "name":"Niacinamide 10% Clarifying Serum",
+    "category":"Serum",
+    "size_value":30.0,
+    "size_unit":"ml",
+    "price_inr":749.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Niacinamide 10%",
+      "Zinc PCA 1%"
+    ],
+    "skin_types":[
+      "oily",
+      "acne-prone"
+    ],
+    "concerns":[
+      "dark spots",
+      "acne",
+      "pores",
+      "oil control"
+    ],
+    "fragrance_free":true,
+    "vegan":true,
+    "non_comedogenic":true,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"AM & PM",
+    "how_to_use":"2-3 drops AM and\/or PM after cleansing.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Clarifying serum with 10% Niacinamide + 1% Zinc PCA. Controls oil, minimises pores, reduces acne marks. Best for oily & acne-prone skin. Non-comedogenic, fragrance-free, vegan."
+  },
+  {
+    "sku":"MM-HA30",
+    "name":"Hyaluronic Hydra Serum",
+    "category":"Serum",
+    "size_value":30.0,
+    "size_unit":"ml",
+    "price_inr":799.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Hyaluronic Acid",
+      "Panthenol"
+    ],
+    "skin_types":[
+      "combination",
+      "dry",
+      "normal",
+      "oily",
+      "sensitive"
+    ],
+    "concerns":[
+      "hydration",
+      "fine lines"
+    ],
+    "fragrance_free":true,
+    "vegan":true,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"AM & PM",
+    "how_to_use":"Apply on damp skin, morning and night.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Deep hydration with multi-weight Hyaluronic Acid and Panthenol (Vit B5). Plumps fine lines. For ALL skin types incl. sensitive skin. Vegan. Fragrance Free."
+  },
+  {
+    "sku":"MM-RET15",
+    "name":"Gentle Retinol Night Serum",
+    "category":"Serum",
+    "size_value":15.0,
+    "size_unit":"ml",
+    "price_inr":999.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Retinol 0.3%",
+      "Bakuchiol",
+      "Squalane"
+    ],
+    "skin_types":[
+      "dry",
+      "combination",
+      "normal"
+    ],
+    "concerns":[
+      "fine lines",
+      "uneven texture"
+    ],
+    "fragrance_free":null,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"PM only",
+    "how_to_use":"Use at NIGHT only, 2-3 times a week to start. Pea-sized amount.",
+    "cautions":"Not recommended during pregnancy or breastfeeding. Use sunscreen daily. Do not mix with Vitamin C or AHAs.",
+    "pregnancy_caution":true,
+    "avoid_combining_with":[
+      "vitamin c",
+      "ahas"
+    ],
+    "description":"Beginner-friendly 0.3% encapsulated Retinol with Bakuchiol & Squalane. Targets fine lines, uneven texture. For normal, dry & combination skin. Not for sensitive skin."
+  },
+  {
+    "sku":"MM-SS50",
+    "name":"Mineral Sunscreen SPF 50",
+    "category":"Sunscreen",
+    "size_value":50.0,
+    "size_unit":"g",
+    "price_inr":649.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Zinc Oxide"
+    ],
+    "skin_types":[
+      "combination",
+      "dry",
+      "normal",
+      "oily",
+      "sensitive"
+    ],
+    "concerns":[
+      "sun protection"
+    ],
+    "fragrance_free":true,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"AM",
+    "how_to_use":"Apply generously as the last step of AM routine. Reapply every 2-3 hours outdoors.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"100% mineral (Zinc Oxide) broad-spectrum SPF 50 PA++++. No white cast. Reef safe. Suitable for all skin types including sensitive skin. Fragrance free."
+  },
+  {
+    "sku":"MM-SSG50",
+    "name":"Tinted Sun Gel SPF 50",
+    "category":"Sunscreen",
+    "size_value":50.0,
+    "size_unit":"g",
+    "price_inr":699.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Niacinamide",
+      "Iron Oxides"
+    ],
+    "skin_types":[
+      "oily",
+      "combination"
+    ],
+    "concerns":[
+      "sun protection",
+      "uneven tone"
+    ],
+    "fragrance_free":false,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"AM",
+    "how_to_use":"Apply two-finger amount before stepping out.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Tinted gel sunscreen SPF 50 PA+++ with Niacinamide and Iron Oxides - evens tone & protects from blue light. Best for oily and combination skin. Contains fragrance."
+  },
+  {
+    "sku":"MM-CMG100",
+    "name":"Ceramide Barrier Moisturiser",
+    "category":"Moisturiser",
+    "size_value":100.0,
+    "size_unit":"g",
+    "price_inr":599.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Ceramides",
+      "Cholesterol",
+      "Oat"
+    ],
+    "skin_types":[
+      "dry",
+      "sensitive"
+    ],
+    "concerns":[
+      "barrier repair"
+    ],
+    "fragrance_free":true,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"AM & PM",
+    "how_to_use":"Massage onto face and neck AM & PM.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Rich moisturiser with 3 Ceramides, Cholesterol & Oat extract to repair the skin barrier. For dry, very dry & sensitive skin. Fragrance-free. Dermatologically tested."
+  },
+  {
+    "sku":"MM-GWM50",
+    "name":"Oil-Free Gel Moisturiser",
+    "category":"Moisturiser",
+    "size_value":50.0,
+    "size_unit":"g",
+    "price_inr":499.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Hyaluronic Acid",
+      "Green Tea"
+    ],
+    "skin_types":[
+      "oily",
+      "acne-prone"
+    ],
+    "concerns":[
+      "acne",
+      "oil control"
+    ],
+    "fragrance_free":null,
+    "vegan":null,
+    "non_comedogenic":true,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"AM & PM",
+    "how_to_use":"Use morning and night after serum.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Oil free water-gel with Green Tea, Hyaluronic acid. Non-greasy, non comedogenic. Ideal for OILY & acne-prone skin."
+  },
+  {
+    "sku":"MM-NC75",
+    "name":"Overnight Repair Night Cream",
+    "category":"Moisturiser",
+    "size_value":75.0,
+    "size_unit":"g",
+    "price_inr":849.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Ceramides",
+      "Peptides",
+      "Shea Butter"
+    ],
+    "skin_types":[
+      "dry",
+      "normal"
+    ],
+    "concerns":[
+
+    ],
+    "fragrance_free":null,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":null,
+    "how_to_use":null,
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Night cream with Peptides, Shea Butter, Ceramides. Repairs while you sleep. Normal to dry skin."
+  },
+  {
+    "sku":"MM-FW100",
+    "name":"Turmeric Foaming Face Wash",
+    "category":"Cleanser",
+    "size_value":100.0,
+    "size_unit":"ml",
+    "price_inr":349.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Turmeric",
+      "Tea Tree Oil",
+      "Salicylic Acid 0.5%"
+    ],
+    "skin_types":[
+      "oily",
+      "combination",
+      "acne-prone"
+    ],
+    "concerns":[
+      "acne",
+      "oil control"
+    ],
+    "fragrance_free":null,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":true,
+    "cruelty_free":null,
+    "usage_time":"Any time",
+    "how_to_use":"Lather with water, massage 30 sec, rinse. Twice daily.",
+    "cautions":"Avoid contact with eyes.",
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Gentle foaming cleanser with Turmeric, Tea Tree Oil & Salicylic Acid 0.5%. Removes oil and dirt without stripping. For oily, combination and acne-prone skin. SLS-free."
+  },
+  {
+    "sku":"MM-CO100",
+    "name":"Green Tea Cleansing Oil",
+    "category":"Cleanser",
+    "size_value":100.0,
+    "size_unit":"ml",
+    "price_inr":599.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Green Tea",
+      "Jojoba",
+      "Sunflower"
+    ],
+    "skin_types":[
+      "combination",
+      "dry",
+      "normal",
+      "oily"
+    ],
+    "concerns":[
+      "makeup removal"
+    ],
+    "fragrance_free":null,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"Any time",
+    "how_to_use":"Massage onto DRY face, add water to emulsify, rinse. Follow with face wash.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Melts makeup & sunscreen. Green Tea, Jojoba & Sunflower oils. Emulsifies with water. Suitable for all skin types."
+  },
+  {
+    "sku":"MM-LT-ROSE",
+    "name":"Matte Lip Tint - Rose",
+    "category":"Lip",
+    "size_value":4.5,
+    "size_unit":"ml",
+    "price_inr":449.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Vitamin E"
+    ],
+    "skin_types":[
+
+    ],
+    "concerns":[
+
+    ],
+    "fragrance_free":null,
+    "vegan":true,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":true,
+    "usage_time":"Any time",
+    "how_to_use":"Swipe on lips; blend on cheeks with fingertip.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Transfer-proof matte lip & cheek tint, shade ROSE (cool pink). With Vitamin E. Lasts 8 hrs. Vegan, cruelty free."
+  },
+  {
+    "sku":"MM-LT-NUDE",
+    "name":"Matte Lip Tint - Nude",
+    "category":"Lip",
+    "size_value":4.5,
+    "size_unit":"ml",
+    "price_inr":449.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Vitamin E"
+    ],
+    "skin_types":[
+
+    ],
+    "concerns":[
+
+    ],
+    "fragrance_free":null,
+    "vegan":true,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"Any time",
+    "how_to_use":"Swipe on lips; blend on cheeks.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Transfer-proof matte lip & cheek tint, shade NUDE (warm beige-brown, suits medium to deep skin tones). With Vitamin E. Vegan."
+  },
+  {
+    "sku":"MM-LT-BERRY",
+    "name":"Matte Lip Tint - Berry",
+    "category":"Lip",
+    "size_value":4.5,
+    "size_unit":"ml",
+    "price_inr":449.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Vitamin E"
+    ],
+    "skin_types":[
+
+    ],
+    "concerns":[
+
+    ],
+    "fragrance_free":null,
+    "vegan":true,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":true,
+    "usage_time":null,
+    "how_to_use":null,
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Matte lip & cheek tint, shade BERRY (deep plum). Vitamin E. Long wear. Vegan, cruelty-free."
+  },
+  {
+    "sku":"MM-LB10",
+    "name":"Beetroot Lip Balm",
+    "category":"Lip",
+    "size_value":10.0,
+    "size_unit":"g",
+    "price_inr":249.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Shea Butter",
+      "Beetroot",
+      "Kokum Butter"
+    ],
+    "skin_types":[
+      "dry"
+    ],
+    "concerns":[
+      "dry lips"
+    ],
+    "fragrance_free":null,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"Any time",
+    "how_to_use":"Apply as often as needed.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Tinted lip balm with Beetroot extract, Shea Butter and Kokum Butter. Heals dry, chapped lips. Natural pink tint."
+  },
+  {
+    "sku":"MM-HO100",
+    "name":"Onion & Bhringraj Hair Oil",
+    "category":"Hair",
+    "size_value":100.0,
+    "size_unit":"ml",
+    "price_inr":399.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Red Onion",
+      "Bhringraj",
+      "Amla",
+      "Coconut"
+    ],
+    "skin_types":[
+
+    ],
+    "concerns":[
+      "hair fall"
+    ],
+    "fragrance_free":null,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"Any time",
+    "how_to_use":"Massage into scalp, leave 1 hr or overnight, wash off with shampoo. 2-3 times a week.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Ayurvedic hair oil with Red Onion, Bhringraj, Amla & Coconut oil. Reduces hair fall and strengthens roots. For all hair types."
+  },
+  {
+    "sku":"MM-HS200",
+    "name":"Rice Water Shampoo",
+    "category":"Hair",
+    "size_value":200.0,
+    "size_unit":"ml",
+    "price_inr":449.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Rice Water",
+      "Keratin"
+    ],
+    "skin_types":[
+
+    ],
+    "concerns":[
+      "dullness",
+      "frizz & damage"
+    ],
+    "fragrance_free":null,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":true,
+    "cruelty_free":null,
+    "usage_time":"Any time",
+    "how_to_use":"Lather on wet hair, rinse.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Sulphate-free shampoo with fermented Rice Water and Keratin protein. For dull, frizzy and damaged hair. Colour safe."
+  },
+  {
+    "sku":"MM-UEC15",
+    "name":"Caffeine Under-Eye Cream",
+    "category":"Eye",
+    "size_value":15.0,
+    "size_unit":"g",
+    "price_inr":649.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Peptides",
+      "Caffeine 5%",
+      "Vitamin K"
+    ],
+    "skin_types":[
+      "combination",
+      "dry",
+      "normal",
+      "oily"
+    ],
+    "concerns":[
+      "puffiness",
+      "dark circles"
+    ],
+    "fragrance_free":true,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"AM & PM",
+    "how_to_use":"Gently dab a rice-grain amount around eyes AM & PM.",
+    "cautions":"Avoid direct contact with eyes.",
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Under eye cream with 5% Caffeine, Peptides and Vitamin K. Reduces puffiness and dark circles. Suitable for all skin types. Fragrance free."
+  },
+  {
+    "sku":"MM-KIT-GLOW",
+    "name":"Glow Starter Kit",
+    "category":"Kit",
+    "size_value":3.0,
+    "size_unit":"pcs",
+    "price_inr":1699.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Turmeric"
+    ],
+    "skin_types":[
+
+    ],
+    "concerns":[
+      "dullness",
+      "sun protection"
+    ],
+    "fragrance_free":null,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"AM",
+    "how_to_use":"Cleanse > Serum > Sunscreen every morning.",
+    "cautions":null,
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Kit with Vitamin C Glow Serum 30ml + Mineral Sunscreen SPF 50 50g + Turmeric Foaming Face Wash 100ml. Complete morning routine for dull skin. Save 15%."
+  },
+  {
+    "sku":"MM-CLAY100",
+    "name":"Kaolin Clay Mask",
+    "category":"Mask",
+    "size_value":100.0,
+    "size_unit":"g",
+    "price_inr":549.0,
+    "in_stock":true,
+    "key_ingredients":[
+      "Niacinamide",
+      "Kaolin",
+      "Bentonite"
+    ],
+    "skin_types":[
+      "oily",
+      "combination"
+    ],
+    "concerns":[
+      "pores",
+      "oil control"
+    ],
+    "fragrance_free":null,
+    "vegan":null,
+    "non_comedogenic":null,
+    "sulphate_free":null,
+    "cruelty_free":null,
+    "usage_time":"Any time",
+    "how_to_use":"Apply thin layer, leave 10 min, rinse. 1-2 times a week.",
+    "cautions":"Do not use on broken skin.",
+    "pregnancy_caution":false,
+    "avoid_combining_with":[
+
+    ],
+    "description":"Detox mask with Kaolin & Bentonite clay, Niacinamide. Unclogs pores, controls excess oil. For oily and combination skin."
+  }
+]

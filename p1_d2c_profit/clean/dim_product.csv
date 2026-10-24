@@ -1,0 +1,21 @@
+sku,product_name,category,mrp,unit_cogs,cogs_estimated
+MM-VC30,Vitamin C Glow Serum 30ml,Serum,899,210.0,False
+MM-NIA30,Niacinamide 10% Clarifying Serum 30ml,Serum,749,160.0,False
+MM-HA30,Hyaluronic Hydra Serum 30ml,Serum,799,175.0,False
+MM-RET15,Gentle Retinol Night Serum 15ml,Serum,999,260.0,False
+MM-SS50,Mineral Sunscreen SPF 50 50g,Sunscreen,649,120.0,False
+MM-SSG50,Tinted Sun Gel SPF 50 50g,Sunscreen,699,150.0,False
+MM-CMG100,Ceramide Barrier Moisturiser 100g,Moisturiser,599,140.0,False
+MM-GWM50,Oil-Free Gel Moisturiser 50g,Moisturiser,499,105.0,False
+MM-NC75,Overnight Repair Night Cream 75g,Moisturiser,849,230.0,False
+MM-FW100,Turmeric Foaming Face Wash 100ml,Cleanser,349,70.0,False
+MM-CO100,Green Tea Cleansing Oil 100ml,Cleanser,599,145.0,False
+MM-LT-ROSE,Matte Lip Tint - Rose,Lip,449,95.0,False
+MM-LT-NUDE,Matte Lip Tint - Nude,Lip,449,95.0,False
+MM-LT-BERRY,Matte Lip Tint - Berry,Lip,449,95.0,False
+MM-LB10,Beetroot Lip Balm 10g,Lip,249,45.0,False
+MM-HO100,Onion & Bhringraj Hair Oil 100ml,Hair,399,85.0,False
+MM-HS200,Rice Water Shampoo 200ml,Hair,449,110.0,False
+MM-UEC15,Caffeine Under-Eye Cream 15g,Eye,649,135.0,False
+MM-KIT-GLOW,Glow Starter Kit (Serum+SPF+Wash),Kit,1699,420.0,False
+MM-CLAY100,Kaolin Clay Mask 100g,Mask,549,122.0,True

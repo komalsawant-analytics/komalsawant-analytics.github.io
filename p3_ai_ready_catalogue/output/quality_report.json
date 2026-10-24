@@ -1,0 +1,60 @@
+{
+  "products": 20,
+  "before_pct": 1.9,
+  "after_pct": 84.4,
+  "by_field": {
+    "category": {
+      "before": 0,
+      "after": 20,
+      "of": 20
+    },
+    "size": {
+      "before": 0,
+      "after": 20,
+      "of": 20
+    },
+    "price": {
+      "before": 3,
+      "after": 20,
+      "of": 20
+    },
+    "key_ingredients": {
+      "before": 0,
+      "after": 20,
+      "of": 20
+    },
+    "skin_types": {
+      "before": 0,
+      "after": 14,
+      "of": 20
+    },
+    "concerns": {
+      "before": 0,
+      "after": 16,
+      "of": 20
+    },
+    "fragrance_free": {
+      "before": 0,
+      "after": 7,
+      "of": 20
+    },
+    "usage_time": {
+      "before": 0,
+      "after": 18,
+      "of": 20
+    }
+  },
+  "review_items": 12,
+  "cleaning_log": [
+    {
+      "issue": "Duplicate products from repeated export",
+      "rows": 2,
+      "action": "Removed"
+    },
+    {
+      "issue": "SKU case inconsistent",
+      "rows": 5,
+      "action": "Upper-cased"
+    }
+  ]
+}

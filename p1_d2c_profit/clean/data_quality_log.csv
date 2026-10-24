@@ -1,0 +1,19 @@
+source,issue,rows_affected,action
+product_master,Title rows above the header,2,Skipped first 2 rows on read
+product_master,Missing landed cost,1,"Estimated from average cost-to-MRP ratio (category, else overall); flagged cogs_estimated=True"
+shopify,Internal test orders,15,Removed
+shopify,Voided (cancelled before payment) orders,25,Removed
+shopify,SKU with lowercase / trailing spaces,578,Trimmed and upper-cased
+shopify,Timestamp stored as text with timezone suffix,6388,Parsed to IST date
+shopify,Order-level fields (shipping) only on first line of multi-line orders,1812,"Counted once per order; courier cost allocated per order, not per line"
+amazon,Non-order rows (FBA storage fees) mixed with orders,6,Separated; storage fees kept as channel overhead
+amazon,Dates in DD/MM/YYYY text (Excel reads some as MM/DD),5437,Parsed with explicit day-first format
+amazon,Seller SKU codes differ from master SKUs (two suffix styles),20,Mapped 20/20 codes by pattern
+amazon,Returns stored in a separate sheet with a different date format,263,Joined to orders on order id
+beautymart,Exact duplicate rows (report exported twice for overlapping dates),99,Removed
+beautymart,Amounts stored as text with thousand separators,4695,Converted to numbers
+beautymart,Commission stored as '25%' text,4695,Converted to decimal rate
+beautymart,No SKU column - only free-text product names in 41 spellings,41,Fuzzy-matched to master; 2 low-confidence matches sent for manual review
+beautymart,Brand name written 3 different ways,4695,Standardised (not used for matching)
+all,Rows whose product could not be matched,0,None - all rows matched
+meta_ads,Brand & retargeting campaigns not tied to one product,2,Spend allocated to products by their share of Shopify net revenue that month
